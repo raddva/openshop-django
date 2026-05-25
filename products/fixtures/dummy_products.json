@@ -1,0 +1,40 @@
+[
+  {
+    "model": "products.product",
+    "pk": "590f5c38-e7cf-45c9-8b0a-0937f7de6fa4",
+    "fields": {
+      "name": "Kelas Belajar Python",
+      "sku": "DCD01",
+      "description": "This is a sample description of the product.",
+      "shop": "Dicoding",
+      "location": "Bandung",
+      "price": 1500000,
+      "discount": 0,
+      "category": "Course",
+      "stock": 1000,
+      "is_available": true,
+      "picture": "https://m.media-amazon.com/images/I/810g00EIY8L._UF1000,1000_QL80_.jpg",
+      "is_delete": false,
+      "created_at": "2026-05-25T00:00:00Z"
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": "75ea4e94-65a1-4c84-b5ab-b15b3af9ffac",
+    "fields": {
+      "name": "Kelas Belajar Django",
+      "sku": "DCD02",
+      "description": "Learn Web Development with Django.",
+      "shop": "Dicoding Academy",
+      "location": "Jakarta",
+      "price": 2000000,
+      "discount": 100000,
+      "category": "Course",
+      "stock": 500,
+      "is_available": true,
+      "picture": "https://m.media-amazon.com/images/I/810g00EIY8L._UF1000,1000_QL80_.jpg",
+      "is_delete": false,
+      "created_at": "2026-05-25T00:00:00Z"
+    }
+  }
+]
